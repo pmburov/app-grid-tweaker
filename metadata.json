@@ -1,0 +1,12 @@
+{
+  "description": "Customize app grid as you want",
+  "gettext-domain": "app-grid-tweaker@pmburov.github.com",
+  "name": "App Grid Tweaker",
+  "settings-schema": "org.gnome.shell.extensions.app-grid-tweaker",
+  "shell-version": [
+    "46"
+  ],
+  "uuid": "app-grid-tweaker@pmburov.github.com",
+  "url": "https://github.com/pmburov/app-grid-tweaker",
+  "version-name": "46.0"
+}

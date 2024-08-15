@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.app-grid-tweaker" path="/org/gnome/shell/extensions/app-grid-tweaker/">
+    <key name="appgrid-max-rows" type="i">
+      <default>4</default>
+      <summary>App Grid Rows</summary>
+      <description>App Grid Rows</description>
+    </key>
+
+    <key name="appgrid-max-columns" type="i">
+      <default>6</default>
+      <summary>App Grid Columns</summary>
+      <description>App Grid Columns</description>
+    </key>
+
+    <key name="appgrid-icon-size" type="i">
+      <default>0</default>
+      <summary>App Icon size</summary>
+      <description>App Icon size</description>
+    </key>
+
+    <key name="folder-max-rows" type="i">
+      <default>3</default>
+      <summary>Folder Rows</summary>
+      <description>Folder Rows</description>
+    </key>
+
+    <key name="folder-max-columns" type="i">
+      <default>3</default>
+      <summary>Folder Columns</summary>
+      <description>Folder Columns</description>
+    </key>
+
+    <key name="folder-icon-size" type="i">
+      <default>0</default>
+      <summary>Folder App Icon Size</summary>
+      <description>Folder App Icon Size</description>
+    </key>
+  </schema>
+</schemalist>
